@@ -1,5 +1,9 @@
 {
-	"devDependencies": {
-		"lerna": "^2.9.0"
-	}
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hwclass/ds-monorepo.git"
+  }
 }
