@@ -5,11 +5,19 @@
 ```
 
 ```react
-<Another />
+<Hero />
 ```
 
 ```react
-<Hello />
+<Benefits />
+```
+
+```react
+<BookingWidget />
+```
+
+```react
+<Panorama />
 ```
 
 ```react

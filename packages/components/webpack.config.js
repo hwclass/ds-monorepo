@@ -3,10 +3,12 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 
 module.exports = {
   entry: {
-    Another: './src/Another.jsx',
-    Hello: './src/Hello.jsx',
+    Benefits: './src/Benefits.jsx',
+    BookingWidget: './src/BookingWidget.jsx',
+    Footer: './src/Footer.jsx',
     Header: './src/Header.jsx',
-    Footer: './src/Footer.jsx'
+    Hero: './src/Hero.jsx',
+    Panorama: './src/Panorama.jsx'
   },
   output: {
     path: path.resolve(__dirname, 'lib'),
